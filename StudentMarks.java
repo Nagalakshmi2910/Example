@@ -3,7 +3,7 @@ package Conditions;
 public class StudentMarks {
 	public static void main(String[] args)
 	{
-		int marks=78;
+		int marks=45;
 		if(marks>90)
 		{
 			System.out.println("First class");
